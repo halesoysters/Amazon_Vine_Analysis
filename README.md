@@ -37,9 +37,13 @@ The last step is to load the data from the temporary Spark session to the local 
 ## Analysis 
 The second deliverable dealt with analyzing the reviews for outdoor equipment specifically, the difference between the paid (vine) program outcomes for five-star reviews, and unpaid reviews.  
 	
-For products with 20 or more reviews, there were 107 vine-reviewed products compared to 39,869 unpaid products.    
-Of these, 56 vine-reviewed products earned a five-star rating compared to 21,005 non-vine-reviewed products. 
-Interestingly, this lead to an also identical percentage of five-star reviews, with *52.33%* paid to *52.68%* unpaid five-star review findings, respectively.  
-#Summary
+- For products with 20 or more reviews, there were 107 vine-reviewed products compared to 39,869 unpaid products. 
+
+- Of these, 56 vine-reviewed products earned a five-star rating compared to 21,005 non-vine-reviewed products. 
+
+- Interestingly, this lead to an also identical percentage of five-star reviews, with *52.33%* paid to *52.68%* unpaid five-star review findings, respectively.  
+
+# Summary
 In summary, for outdoor equipment there is no evidence for a bias towards five-star ratings for vine-reviewed products. One complication in the analysis is the order of magnitude difference between the number of paid and unpaid reviews.  A shift of only a few paid reviews from four- to five-stars would have changed the results significantly.   
+
 ![header](images/percents.png)  
